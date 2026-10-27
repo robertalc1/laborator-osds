@@ -1,0 +1,6 @@
+.materiale-osds/
+.gstack/
+lab*/bin/
+core
+core.*
+*.core
