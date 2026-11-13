@@ -7,7 +7,7 @@ Materiale: [Costinteo/osds-lab](https://github.com/Costinteo/osds-lab), versiune
 ## Laboratoare
 
 - [Laboratorul 1 — memorie virtuală și procese](lab1/README.md): exercițiile 1–3 și răspunsurile Q1–Q5.
-- Laboratorul 2: urmează.
+- [Laboratorul 2 – Buffer Overflow și pwntools](lab2/README.md): exercițiile 1–4 și bonus.
 
 Fișierele `ex1.c`, `ex3.c` și `dummy.c` provin din materialele laboratorului. Au fost păstrate instrucțiunile programelor și eliminate comentariile. `ex2.c` completează șablonul loaderului. Comenzile din fișierele `.gdb` reproduc experimentele.
 
